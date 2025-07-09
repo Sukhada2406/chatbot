@@ -22,18 +22,18 @@ This is a responsive AI-powered chatbot web application built with React and int
 
 🧑‍💻 Getting Started
 
-1. Clone the repo
+1. Clone the repo :
 
 git clone https://github.com/Sukhada2406/chatbot.git
 cd chatbot
 
-2. Install dependencies
+2. Install dependencies :
 npm install
 
-3. Setup .env
+3. Setup .env :
 Create a file called .env in the root directory and add your Gemini API key:
 
 VITE_GEMINI_API_KEY=your_actual_api_key_here
 
-4. Run the app
+4. Run the app :
 npm run dev
